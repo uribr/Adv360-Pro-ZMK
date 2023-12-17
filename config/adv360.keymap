@@ -45,6 +45,7 @@
    &kp TAB     &kp A      &kp S     &kp D      &kp F   &kp G              &kp END  &kp LCTRL            &kp LALT                  &kp RIGHT_ALT  &kp RCTRL  &kp PAGE_DOWN   &kp H   &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
  &kp LSHFT     &kp Z      &kp X     &kp C      &kp V   &kp B                                            &kp LGUI                       &kp RGUI                             &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
      &mo 2  &kp CAPS  &kp GRAVE  &kp LEFT  &kp RIGHT                    &kp SPACE  &kp ENTER  &kp K_CONTEXT_MENU                        &kp DEL  &kp ENTER  &kp BACKSPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 2
+
             >;
         };
 
